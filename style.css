@@ -1,0 +1,17 @@
+body{
+    background-color:aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container{
+    text-align: center;
+}
+
+button{
+    padding: 5px 10px;
+}
